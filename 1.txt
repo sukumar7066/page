@@ -1,5 +1,11 @@
-git status
 
-git add -a
+git clone htt...
 
-git commit -m "
+git init 
+
+git status  
+
+git add -A 
+
+git push origin main
+blisudhflbv;lislidfvljb
